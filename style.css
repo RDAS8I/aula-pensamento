@@ -1,0 +1,22 @@
+header {
+
+    background-color: rgb(100, 99, 97);
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+main {
+
+    background-color: rgb(246, 255, 255);
+
+
+}
+
+
+footer  {
+
+    background-color: blue;
+}
